@@ -1,0 +1,10 @@
+C:\Users\phantasmist\source\repos\NetTest\NetTest\bin\Debug\NetTest.exe.config
+C:\Users\phantasmist\source\repos\NetTest\NetTest\bin\Debug\NetTest.exe
+C:\Users\phantasmist\source\repos\NetTest\NetTest\bin\Debug\NetTest.pdb
+C:\Users\phantasmist\source\repos\NetTest\NetTest\obj\Debug\NetTest.csproj.AssemblyReference.cache
+C:\Users\phantasmist\source\repos\NetTest\NetTest\obj\Debug\NetTest.frmNetTest.resources
+C:\Users\phantasmist\source\repos\NetTest\NetTest\obj\Debug\NetTest.Properties.Resources.resources
+C:\Users\phantasmist\source\repos\NetTest\NetTest\obj\Debug\NetTest.csproj.GenerateResource.cache
+C:\Users\phantasmist\source\repos\NetTest\NetTest\obj\Debug\NetTest.csproj.CoreCompileInputs.cache
+C:\Users\phantasmist\source\repos\NetTest\NetTest\obj\Debug\NetTest.exe
+C:\Users\phantasmist\source\repos\NetTest\NetTest\obj\Debug\NetTest.pdb
